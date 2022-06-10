@@ -1,0 +1,244 @@
+[[SoapyLoopback]]
+arch = "aarch64"
+git-tree-sha1 = "71ef7a18c5287bda6599a348b0dd672369cad434"
+os = "macos"
+
+    [[SoapyLoopback.download]]
+    sha256 = "45131b521febbb0669b9fefd25cf6413268ffe639712c5a7e490a97b075063d4"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[SoapyLoopback]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1d020819cf377214c18f6f2c713d5efb3f5f67a6"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyLoopback.download]]
+    sha256 = "e250fefd53cb62714881c9f9a20d2ae07ffba2e9db1447fc516b7dec9cafb96c"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[SoapyLoopback]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fb8e4944fed2876a8cfbd049bc3dc8cab9076a6f"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyLoopback.download]]
+    sha256 = "e7286b1ce89a1f0ba9b3c90a2a2d8627349abc6ebb71efee720024a3737d277b"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[SoapyLoopback]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "072fb3295e9a59e18c207db97cc0945d670037ed"
+libc = "musl"
+os = "linux"
+
+    [[SoapyLoopback.download]]
+    sha256 = "593df5ded2d78037b68f696ebbc8cd93db197b0b2565b267d441e774063e35c2"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.aarch64-linux-musl-cxx03.tar.gz"
+[[SoapyLoopback]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4d5d4a0b0c76f5740fa753fc52e19370d9931adb"
+libc = "musl"
+os = "linux"
+
+    [[SoapyLoopback.download]]
+    sha256 = "f5575eb3e9d83105db4a23348434a1720c713792c4e398d9f4713e995bbba2c9"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.aarch64-linux-musl-cxx11.tar.gz"
+[[SoapyLoopback]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "77bb2d8f009c169f28ad96ae3c13f057d8c4c845"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyLoopback.download]]
+    sha256 = "b5a3a84853e2ac0e0ef96e2471cf38f2f6018c0f54561384d0bf61bd150d7af5"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[SoapyLoopback]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9279d625d157cdf9ee83f4572d43f4ac4c957eec"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyLoopback.download]]
+    sha256 = "a09327fbfa087a0940bb1c886da7ce20654b1fc0043cb0ac4a16ac04c7da57b4"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[SoapyLoopback]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8f5deda8a6b0cfc58ff2a9a7eac2dd5a45c513ca"
+libc = "musl"
+os = "linux"
+
+    [[SoapyLoopback.download]]
+    sha256 = "85f74902305ef5994205ea2e81c8e400e12a8e60cb66753d21f36e9c20ad4ac5"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[SoapyLoopback]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c78d5a6722c0b4704bf4249c86c4151e79982201"
+libc = "musl"
+os = "linux"
+
+    [[SoapyLoopback.download]]
+    sha256 = "b157f1085328bba45f7a6a6e0fcaa07acbbd1b8bc2ffa50fdab77be2b5a51e9d"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[SoapyLoopback]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9339d3fe13236f448aee40eb0becdaac675c0f86"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyLoopback.download]]
+    sha256 = "debbfb77b782d6f99ead31c6f645a5865ac29173d3a86a47c0e019248312e4c5"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.i686-linux-gnu-cxx03.tar.gz"
+[[SoapyLoopback]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2442147d84159d207a7d5af365feb209554e4600"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyLoopback.download]]
+    sha256 = "1aec58b16150bc61bbd213dddf918a88b466c6587c5cdc8e1c4df1684d8334a0"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.i686-linux-gnu-cxx11.tar.gz"
+[[SoapyLoopback]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "41bc64b667496cdc7b551e5766c36e821938d296"
+libc = "musl"
+os = "linux"
+
+    [[SoapyLoopback.download]]
+    sha256 = "a36731271b603d8a5bf89f4eff3bac2db5d04574087b77f11ccb9255cdad8f02"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.i686-linux-musl-cxx03.tar.gz"
+[[SoapyLoopback]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b54ec6e5a49cc747ccd7a0fe983ec6994093e57f"
+libc = "musl"
+os = "linux"
+
+    [[SoapyLoopback.download]]
+    sha256 = "4a408336d7e93bd6c09c2346bd7428712f8619642d149b7df5e964ea70e9e9cf"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.i686-linux-musl-cxx11.tar.gz"
+[[SoapyLoopback]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1666009ca7f7fae6cd7019f9133d30b9537c1618"
+os = "windows"
+
+    [[SoapyLoopback.download]]
+    sha256 = "9094c9cb084273ca40eb26336ec1713e6f2818cab90589d552a6a82bdc1f13ee"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.i686-w64-mingw32-cxx03.tar.gz"
+[[SoapyLoopback]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ab0d218973fdc69eae4ad6a1898d06789070332c"
+os = "windows"
+
+    [[SoapyLoopback.download]]
+    sha256 = "8ffd899ed7ec63bfc0cdd1368667314bd088008687544c1756aae6381e768c92"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.i686-w64-mingw32-cxx11.tar.gz"
+[[SoapyLoopback]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dc83fe9d5f0d15488d987d60df15beeafe377431"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyLoopback.download]]
+    sha256 = "80ab71e3215d8c4d788a0ae0e65ce427c5661af006680ce8a9284b233dc42f4a"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[SoapyLoopback]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d337c7ea066e9a740a558c7ddee287c2322a15ea"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyLoopback.download]]
+    sha256 = "dedb15f6dece5f876d1e2ba3b74248d8a5c2c9141b49ed333dc73debe5851a42"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[SoapyLoopback]]
+arch = "x86_64"
+git-tree-sha1 = "b224b14a6b6ff35c519038ba6911e149375a95dd"
+os = "macos"
+
+    [[SoapyLoopback.download]]
+    sha256 = "bfa01b94182c2247fe54756342e3fea538b408b502047d03dc883970244f9ee7"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[SoapyLoopback]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b81f9c9ca871b36d5161ebfa2d9416ac326a60fe"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyLoopback.download]]
+    sha256 = "f9327088ade8847125cc29b3da6c07af932f4734298b418d6f7ffacac41517a5"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[SoapyLoopback]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3c7b7a70e5b168c9e4c7274d0907ead4e6e6e41b"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyLoopback.download]]
+    sha256 = "8b77c313a2d6e5a8ae38180ab99c10608958373879e9cd0a0f1a843517a48229"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[SoapyLoopback]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "71a4388509d0662d73a765e01f6ca12fedfc8be8"
+libc = "musl"
+os = "linux"
+
+    [[SoapyLoopback.download]]
+    sha256 = "ca53e62abc1d7cfcd36547127ec639897da81ad215276b4307cd29bb0e81c1ad"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.x86_64-linux-musl-cxx03.tar.gz"
+[[SoapyLoopback]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b46f4b510767727982ec489eb96cd268fd3b0c2b"
+libc = "musl"
+os = "linux"
+
+    [[SoapyLoopback.download]]
+    sha256 = "087b4450516f9786067fc379eca95a9c4f5494f27494584a54686afb1020d1b6"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.x86_64-linux-musl-cxx11.tar.gz"
+[[SoapyLoopback]]
+arch = "x86_64"
+git-tree-sha1 = "f6e7019b03f03cffa93632834d05c0311cb2f9b4"
+os = "freebsd"
+
+    [[SoapyLoopback.download]]
+    sha256 = "b271ab82312cadd22a66d4cb0de4e648938d81eec2873a59bbffb8eab5964958"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[SoapyLoopback]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "da05e6604401b4230a22cbea80ff6523d3423029"
+os = "windows"
+
+    [[SoapyLoopback.download]]
+    sha256 = "5b66b835850e1fad73a2ee50574fd4d0f76bda03803e3f65b973ea8ed78a5d75"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[SoapyLoopback]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "180545776925fda1bc2490387ac8d3adffc38761"
+os = "windows"
+
+    [[SoapyLoopback.download]]
+    sha256 = "dafb8df2e5ca0e9f8d5ced114b76011e5fb097acf40b204cb369d0146acb7266"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLoopback_jll.jl/releases/download/SoapyLoopback-v0.1.0+0/SoapyLoopback.v0.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
